@@ -38,7 +38,7 @@ Each project card has its own unique color theme:
 
 ## 🚀 Deployment
 
-This project is deployed on Vercel and can be accessed at: [Live Demo](https://nikitha-portfolio.vercel.app)
+This project is deployed on Vercel and can be accessed at: [Live Demo](https://nikithakportfolio.netlify.app/)
 
 ## 📧 Contact
 
